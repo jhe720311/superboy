@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="superboy.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets\scripts\data\ItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\HomeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\BoxItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\Box.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\BoxData.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\UIBoxItems.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\data\Home.cs" Line="33" Column="34" />
+      <File FileName="Assets\scripts\data\RewardData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

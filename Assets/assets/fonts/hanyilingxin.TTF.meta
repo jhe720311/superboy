@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ce12705186e1cc04a93e571dbf06a947
+timeCreated: 1536030217
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYLingXinJ
+  fontNames:
+  - HYLingXinJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
